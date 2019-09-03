@@ -1,5 +1,6 @@
 ![cover pic](static/hackathon-how-to.png)
-Table of Contents
+
+## Table of Contents
 * [Why does Twilio sponsor hackathons](README.md#why-does-twilio-sponsor-hackathons)
 * [TODO before the hackathon](README.md#TODO-before-the-hackathon)
 * [TODO after the hackathon](README.md#TODO-after-the-hackathon)
@@ -31,8 +32,9 @@ Go back and clean up the code, make a good README, and continue iterating over y
 
 ## Quick and easy code snippets
 Did you miss the Twilio demo during the hackathon Opening Ceremony? It probably contained code like this:
-- Node.js code to respond to texts 
-```
+
+### Node.js code to respond to texts 
+```js
 var express = require('express');
 var bodyParser = require('body-parser');
 var dotenv = require('dotenv');
@@ -52,7 +54,8 @@ app.listen(1337, () => {
     console.log("Express server listening on port 1337");
 });
 ```
-- Node.js code to make a phone call to every number that texted your Twilio number
+
+### Node.js code to make a phone call to every number that texted your Twilio number
 ```
 var express = require('express');
 var bodyParser = require('body-parser');
@@ -73,7 +76,7 @@ client.messages.each(filter, (message) => client.calls.create({
 }).then(call => console.log(call.sid)));
 ```
 
-- Python code to respond to texts 
+### Python code to respond to texts 
 ```
 from twilio.twiml.messaging_response import MessagingResponse
 from flask import Flask, request
@@ -92,7 +95,7 @@ def sms():
 if __name__ == "__main__":
     app.run(debug=True)
 ```
-- Python code to make a phone call to every number that texted your Twilio number
+### Python code to make a phone call to every number that texted your Twilio number
 ```
 from twilio.rest import Client
 
@@ -169,11 +172,11 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [smtex from MHacks 11](https://devpost.com/software/smtex)
 - [Moist Meter from MHacks 11](https://devpost.com/software/moist-meter)
 
-<img src = "https://lh4.googleusercontent.com/Y6SBPai2KslqW5Pwzv0B6teL16vwiiItKTbS5gPsDG2FxPN0iC9aklIbXM6aLq28RKHipc6Kd46VGanaidDAptHhvy2ouDFmVpezp8oYvf2FQrJgmD9ANQDtnucb2n4XKDwuhzKf" alt = "moist meter pic" width = "300" height="450"/>
+<img src="https://lh4.googleusercontent.com/Y6SBPai2KslqW5Pwzv0B6teL16vwiiItKTbS5gPsDG2FxPN0iC9aklIbXM6aLq28RKHipc6Kd46VGanaidDAptHhvy2ouDFmVpezp8oYvf2FQrJgmD9ANQDtnucb2n4XKDwuhzKf" alt="moist meter pic" width="300" height="450"/>
 
 - [Health Hunt AR from TreeHacks 2019](https://devpost.com/software/healthhunt-ar)
 
-<img src = "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/766/426/datas/gallery.jpg" alt = "health hunt ar pic" width="300" height="450"/>
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/766/426/datas/gallery.jpg" alt="health hunt ar pic" height="450"/>
 
 ## Tips 
 We've been to a lot of hackathons, both as hackers and sponsors. What advice do we have for you as hackers?
