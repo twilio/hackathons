@@ -56,7 +56,7 @@ app.listen(1337, () => {
 ```
 
 ### Node.js code to make a phone call to every number that texted your Twilio number
-```
+```js
 var express = require('express');
 var bodyParser = require('body-parser');
 var dotenv = require('dotenv');
@@ -77,7 +77,7 @@ client.messages.each(filter, (message) => client.calls.create({
 ```
 
 ### Python code to respond to texts 
-```
+```python
 from twilio.twiml.messaging_response import MessagingResponse
 from flask import Flask, request
 
@@ -96,7 +96,7 @@ if __name__ == "__main__":
     app.run(debug=True)
 ```
 ### Python code to make a phone call to every number that texted your Twilio number
-```
+```python
 from twilio.rest import Client
 
 client = Client('YOUR-TWILIO-ACCOUNT-SID', 'YOUR-TWILIO-AUTH-TOKEN')
