@@ -169,10 +169,10 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [smtex from MHacks 11](https://devpost.com/software/smtex)
 - [Moist Meter from MHacks 11](https://devpost.com/software/moist-meter)
 
-<img src = "https://lh4.googleusercontent.com/Y6SBPai2KslqW5Pwzv0B6teL16vwiiItKTbS5gPsDG2FxPN0iC9aklIbXM6aLq28RKHipc6Kd46VGanaidDAptHhvy2ouDFmVpezp8oYvf2FQrJgmD9ANQDtnucb2n4XKDwuhzKf" alt = "moist meter pic" width = "400" height="550"/>
+<img src = "https://lh4.googleusercontent.com/Y6SBPai2KslqW5Pwzv0B6teL16vwiiItKTbS5gPsDG2FxPN0iC9aklIbXM6aLq28RKHipc6Kd46VGanaidDAptHhvy2ouDFmVpezp8oYvf2FQrJgmD9ANQDtnucb2n4XKDwuhzKf" alt = "moist meter pic" width = "300" height="450"/>
 - [Health Hunt AR from TreeHacks 2019](https://devpost.com/software/healthhunt-ar)
 
-<img src = "https://files.slack.com/files-tmb/TFUJK1UC8-FGGA1MCR4-05aa83a26d/img_7041_720.jpg" alt = "health hunt ar" width="400" height="550"/>
+<img src = "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/766/426/datas/gallery.jpg" alt = "health hunt ar pic" width="300" height="450"/>
 
 ## Tips 
 We've been to a lot of hackathons, both as hackers and sponsors. What advice do we have for you as hackers?
