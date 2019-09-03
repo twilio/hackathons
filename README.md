@@ -1,8 +1,8 @@
-# How-to Twilio at hackathons
+![cover pic](static/hackathon-how-to.png)
 Table of Contents
 * [Why does Twilio sponsor hackathons](README.md#why-does-twilio-sponsor-hackathons)
 * [TODO before the hackathon](README.md#TODO-before-the-hackathon)
-* [TODO before the hackathon](README.md#TODO-after-the-hackathon)
+* [TODO after the hackathon](README.md#TODO-after-the-hackathon)
 * [Quick-and-easy code snippets](README.md#quick-and-easy-code-snippets)
 * [Tutorials](README.md#tutorials)
     * [Tutorials by product](README.md#by-product)
@@ -17,8 +17,7 @@ Table of Contents
 * [Tips](README.md#tips)
 
 ## Why does Twilio sponsor hackathons?
-- To inspire and equip developers
-- To mentor, to teach (about Twilio and topics unrelated to Twilio)
+- To inspire and equip developers, mentoring and teaching you about Twilio as well as general programming topics unrelated to Twilio products!
 - To create evangelists, champions out of developers by getting you excited to use Twilio!
 - Receive product feedback and see different use cases. Be creative! :D 
 - Yes, to generate more sign-ups. We are a public company after all!
@@ -111,6 +110,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [SMS docs](https://www.twilio.com/docs/sms)
 - [Voice docs](https://www.twilio.com/docs/voice)
 - [Video tutorials](https://www.twilio.com/docs/video/tutorials)
+- [Autopilot blog posts](https://www.twilio.com/docs/autopilot/blog-posts)
 
 ### by language
 #### Node.js
@@ -166,13 +166,17 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [How to post messages to Slack with Twilio Studio](https://www.youtube.com/watch?v=wMExZ3yq3Vk)
 
 ## Some cool hacks we've seen from hackathons
-- [smtex from mhacks 11](https://devpost.com/software/smtex)
-- [moist meter from mhacks 11](https://devpost.com/software/moist-meter)
+- [smtex from MHacks 11](https://devpost.com/software/smtex)
+- [Moist Meter from MHacks 11](https://devpost.com/software/moist-meter)
+
+<img src = "https://lh4.googleusercontent.com/Y6SBPai2KslqW5Pwzv0B6teL16vwiiItKTbS5gPsDG2FxPN0iC9aklIbXM6aLq28RKHipc6Kd46VGanaidDAptHhvy2ouDFmVpezp8oYvf2FQrJgmD9ANQDtnucb2n4XKDwuhzKf" alt = "moist meter pic" width = "400" height="550"/>
 - [Health Hunt AR from TreeHacks 2019](https://devpost.com/software/healthhunt-ar)
+
+<img src = "https://files.slack.com/files-tmb/TFUJK1UC8-FGGA1MCR4-05aa83a26d/img_7041_720.jpg" alt = "health hunt ar" width="400" height="550"/>
 
 ## Tips 
 We've been to a lot of hackathons, both as hackers and sponsors. What advice do we have for you as hackers?
-- **Have fun!**
+- **Have fun!** Hackathons can be intense and a lot to handle. Don't forget to build something you want to build.
 - **Take risks!** Learn something new. Try building something in a new language. You're surrounded by passionate people who are giving up their weekends to build something or help you. Take advantage of them! Ask questions about what classes they're taking if they're a fellow hacker, or talk to a mentor/sponsor about their jobs and their backgrounds.
 - **Go to workshops and activities.** Yes, you're probably here to hack, but you can't be productive for the whole time. Don't forget to take breaks, talk to people, and take advantage of what the organizers have put together for you.
 - **Demo.** Even if your hack isn't perfect, it's a hack. You had a weekend to build something and hopefully you did other things, too (maybe cup-stacking?) Prepare a demo and give it! It's fun and important to be able to explain what you did and to show others.
