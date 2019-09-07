@@ -30,6 +30,12 @@ We recommend playing through [TwilioQuest](https://twilio.com/quest), a video ga
 Make sure to put your hack on GitHub (public) for the world to see and submit to DevPost! This will come in handy for interviews and more. 
 Go back and clean up the code, make a good README, and continue iterating over your hack if you are passionate about it and want to add on different features. The sky is the limit! 
 
+## Get started
+1. [Make a Twilio account (it's free!)](https://www.twilio.com/try-twilio)
+2. Add promo code: console -> billing -> upgrade now->add payment information and funds -> use promo code
+3. [Buy a Twilio phone number](https://www.twilio.com/console/phone-numbers/incoming)
+4. Configure your Twilio phone number for when a SMS or phone call comes in with a [TwiML Bin](https://www.twilio.com/console/twiml-bins), [Twilio Function](https://www.twilio.com/console/functions), or [ngrok](https://ngrok.io) URL. 
+
 ## Quick and easy code snippets
 Did you miss the Twilio demo during the hackathon Opening Ceremony? It probably contained code like this:
 
