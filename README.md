@@ -32,7 +32,7 @@ Go back and clean up the code, make a good README, and continue iterating over y
 
 ## Get started
 1. [Make a Twilio account (it's free!)](https://www.twilio.com/try-twilio)
-2. Add promo code: console -> billing -> upgrade now->add payment information and funds -> use promo code
+2. [Apply promo code](https://twil.io/apply-promo)
 3. [Buy a Twilio phone number](https://www.twilio.com/console/phone-numbers/incoming)
 4. Configure your Twilio phone number for when a SMS or phone call comes in with a [TwiML Bin](https://www.twilio.com/console/twiml-bins), [Twilio Function](https://www.twilio.com/console/functions), or [ngrok](https://ngrok.io) URL. 
 
