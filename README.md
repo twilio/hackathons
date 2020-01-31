@@ -82,6 +82,20 @@ client.messages.each(filter, (message) => client.calls.create({
 }).then(call => console.log(call.sid)));
 ```
 
+### Node.js code in a [Twilio Function](https://twilio.com/console/functions)
+```js
+exports.handler = function(context, event, callback) {
+	let twiml = new Twilio.twiml.MessagingResponse();
+	if(event.Body.toLowerCase().trim() == "matcha") {
+        twiml.message("You right. @lizziepika, lsiegle@twilio.com, promo: HACKUCI2020, https://twil.io/hackathons");
+    }
+    else {
+        twiml.message("No. @lizziepika, lsiegle@twilio.com, promo: HACKUCI2020, https://twil.io/hackathons");
+    }
+	callback(null, twiml);
+};
+```
+
 ### Python code to respond to texts 
 ```python
 from twilio.twiml.messaging_response import MessagingResponse
