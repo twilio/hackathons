@@ -22,7 +22,7 @@
 - To create evangelists, champions out of developers by getting you excited to use Twilio!
 - Receive product feedback and see different use cases. Be creative! :D 
 - Yes, to generate more sign-ups. We are a public company after all!
-- Yes, it does look good in a Twilio interview to "eat the API dog food" and have experience using Twilio products--so use Twilio in your hacks and you can talk about it in interviews. Some former "Best use of Twilio" hackathon winners went on to intern here! 
+- Yes, it does look good in a Twilio interview to "eat the API dog food" and have experience using Twilio products--so use Twilio in your hacks and you can talk about it in interviews. Some former "Best use of Twilio" hackathon winners went on to intern here! Check out our [job listings](https://twilio.com/jobs)
 
 ## TODO before the hackathon
 We recommend playing through [TwilioQuest](https://twilio.com/quest), a video game that makes it fun to learn how to use different Twilio products. There's also lots of tutorials and documentation you can read through (see below.)
