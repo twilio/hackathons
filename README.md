@@ -150,6 +150,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [send SMS and MMS in Python](https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-python)
 - [SMS Python quickstart](https://www.twilio.com/docs/sms/quickstart/python)
 - [Voice Python quickstart](https://www.twilio.com/docs/voice/quickstart/node)
+- [Whatsapp Chatbot using Twilio and Flask](https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio)
 
 #### Swift
 - [chat in Swift](https://www.twilio.com/docs/chat/tutorials/chat-application-ios-swift)
