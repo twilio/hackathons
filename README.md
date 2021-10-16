@@ -142,6 +142,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [SMS Node.js quickstart](https://www.twilio.com/docs/sms/quickstart/node)
 - [Voice Node.js quickstart](https://www.twilio.com/docs/voice/quickstart/node)
 - [Video quickstart for JS](https://github.com/twilio/video-quickstart-js)
+- [Computer Vision + Twilio](https://github.com/alwaysai/alwaysai-twilio-sms)
 
 #### React.js
 - [Send an SMS from React with Twilio](https://www.twilio.com/blog/send-an-sms-react-twilio)
