@@ -135,6 +135,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [Voice docs](https://www.twilio.com/docs/voice)
 - [Video tutorials](https://www.twilio.com/docs/video/tutorials)
 - [Autopilot blog posts](https://www.twilio.com/docs/autopilot/blog-posts)
+- [Rick Rolling via Twilio](https://www.twilio.com/blog/2008/11/how-did-twilio-rickroll-techcrunch.html)
 
 ### by language
 #### Node.js
