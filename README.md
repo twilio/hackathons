@@ -205,4 +205,6 @@ We've been to a lot of hackathons, both as hackers and sponsors. What advice do 
 - **Take risks!** Learn something new. Try building something in a new language. You're surrounded by passionate people who are giving up their weekends to build something or help you. Take advantage of them! Ask questions about what classes they're taking if they're a fellow hacker, or talk to a mentor/sponsor about their jobs and their backgrounds.
 - **Go to workshops and activities.** Yes, you're probably here to hack, but you can't be productive for the whole time. Don't forget to take breaks, talk to people, and take advantage of what the organizers have put together for you.
 - **Demo.** Even if your hack isn't perfect, it's a hack. You had a weekend to build something and hopefully you did other things, too (maybe cup-stacking?) Prepare a demo and give it! It's fun and important to be able to explain what you did and to show others.
-    - On the topic of demos, keep it short and simple. Yes, it's nice to have a lead-in showing you did background research, but the focus should be on showing what you built. That is the primary focus of judges: most everything else is probably secondary.
+- On the topic of demos, keep it short and simple. Yes, it's nice to have a lead-in showing you did background research, but the focus should be on showing what you built. That is the primary focus of judges: most everything else is probably secondary.
+
+- A great free invaluable provided by the twilio free, where we have access to all the contentful resources.
