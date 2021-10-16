@@ -1,5 +1,7 @@
 ![cover pic](static/hackathon-how-to.png)
 
+## Twilio API for WhatsApp Python is my favorite twilio resource.
+
 ## Table of Contents
 * [Why does Twilio sponsor hackathons](README.md#why-does-twilio-sponsor-hackathons)
 * [TODO before the hackathon](README.md#TODO-before-the-hackathon)
