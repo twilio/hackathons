@@ -188,6 +188,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [Build SMS surveys in Twilio Studio](https://www.youtube.com/watch?v=iTZRooIdy6U)
 - [Build call forwarding apps with Twilio Studio](https://www.youtube.com/watch?v=atshc8I-AjA)
 - [How to post messages to Slack with Twilio Studio](https://www.youtube.com/watch?v=wMExZ3yq3Vk)
+- [Use Email + SMS Notifications Together](https://youtu.be/rwW6k9zKd7Y)
 
 ## Some cool hacks we've seen from hackathons
 - [smtex from MHacks 11](https://devpost.com/software/smtex)
