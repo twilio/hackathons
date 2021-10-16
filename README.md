@@ -189,6 +189,10 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [Build call forwarding apps with Twilio Studio](https://www.youtube.com/watch?v=atshc8I-AjA)
 - [How to post messages to Slack with Twilio Studio](https://www.youtube.com/watch?v=wMExZ3yq3Vk)
 
+#### Docs
+
+- [Send SMS with Twilio Programmable Messaging](- [How to post messages to Slack with Twilio Studio](https://www.youtube.com/watch?v=wMExZ3yq3Vk)
+
 ## Some cool hacks we've seen from hackathons
 - [smtex from MHacks 11](https://devpost.com/software/smtex)
 - [Moist Meter from MHacks 11](https://devpost.com/software/moist-meter)
