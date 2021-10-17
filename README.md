@@ -116,6 +116,7 @@ def sms():
 if __name__ == "__main__":
     app.run(debug=True)
 ```
+
 ### Python code to make a phone call to every number that texted your Twilio number
 ```python
 from twilio.rest import Client
@@ -129,6 +130,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
         )
     print(call.sid)
 ```
+
 ## Tutorials
 ### by product
 - [SMS docs](https://www.twilio.com/docs/sms)
