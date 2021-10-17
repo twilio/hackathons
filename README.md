@@ -188,6 +188,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [Build SMS surveys in Twilio Studio](https://www.youtube.com/watch?v=iTZRooIdy6U)
 - [Build call forwarding apps with Twilio Studio](https://www.youtube.com/watch?v=atshc8I-AjA)
 - [How to post messages to Slack with Twilio Studio](https://www.youtube.com/watch?v=wMExZ3yq3Vk)
+- [Use Email + SMS Notifications Together](https://youtu.be/rwW6k9zKd7Y)
 
 ## Some cool hacks we've seen from hackathons
 - [smtex from MHacks 11](https://devpost.com/software/smtex)
@@ -196,6 +197,8 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 <img src="https://lh4.googleusercontent.com/Y6SBPai2KslqW5Pwzv0B6teL16vwiiItKTbS5gPsDG2FxPN0iC9aklIbXM6aLq28RKHipc6Kd46VGanaidDAptHhvy2ouDFmVpezp8oYvf2FQrJgmD9ANQDtnucb2n4XKDwuhzKf" alt="moist meter pic" width="300" height="450"/>
 
 - [Health Hunt AR from TreeHacks 2019](https://devpost.com/software/healthhunt-ar)
+
+- [Parking Assistant using OpenCV](https://devpost.com/software/parking-assistant-using-opencv)
 
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/766/426/datas/gallery.jpg" alt="health hunt ar pic" height="450"/>
 
