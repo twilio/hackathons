@@ -193,7 +193,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 ## Some cool hacks we've seen from hackathons
 - [smtex from MHacks 11](https://devpost.com/software/smtex)
 - [Moist Meter from MHacks 11](https://devpost.com/software/moist-meter)
-- [Hackthon Guild Message from Twilio Sms](https://replit.com/join/plzcxbrhrm-neenadkambli)
+- [Hackthon Guild Message from Twilio Sms Guide](https://replit.com/join/plzcxbrhrm-neenadkambli)
 
 <img src="https://lh4.googleusercontent.com/Y6SBPai2KslqW5Pwzv0B6teL16vwiiItKTbS5gPsDG2FxPN0iC9aklIbXM6aLq28RKHipc6Kd46VGanaidDAptHhvy2ouDFmVpezp8oYvf2FQrJgmD9ANQDtnucb2n4XKDwuhzKf" alt="moist meter pic" width="300" height="450"/>
 
