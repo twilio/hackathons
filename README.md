@@ -198,6 +198,8 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 
 - [Health Hunt AR from TreeHacks 2019](https://devpost.com/software/healthhunt-ar)
 
+- [Parking Assistant using OpenCV](https://devpost.com/software/parking-assistant-using-opencv)
+
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/766/426/datas/gallery.jpg" alt="health hunt ar pic" height="450"/>
 
 ## Tips 
