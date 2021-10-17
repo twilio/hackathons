@@ -1,5 +1,5 @@
 ![cover pic](static/hackathon-how-to.png)
-
+<h1 align="center"> Hackthwon How-to twilio </h1>
 ## Table of Contents
 * [Why does Twilio sponsor hackathons](README.md#why-does-twilio-sponsor-hackathons)
 * [TODO before the hackathon](README.md#TODO-before-the-hackathon)
