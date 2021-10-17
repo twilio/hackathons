@@ -150,6 +150,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 - [send SMS and MMS in Python](https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-python)
 - [SMS Python quickstart](https://www.twilio.com/docs/sms/quickstart/python)
 - [Voice Python quickstart](https://www.twilio.com/docs/voice/quickstart/node)
+- [Twilio SMS Sender using Python](https://github.com/dhanrajdc7/AutomationProjects.Py/tree/main/Twilio-SMS-Sender)
 
 #### Swift
 - [chat in Swift](https://www.twilio.com/docs/chat/tutorials/chat-application-ios-swift)
